@@ -113,11 +113,11 @@ const parseTable = function(html, year) {
           End: end.toISOString(),
           EventName: e.EventName.replace(/"/g, ''),
           EventDetails: e.EventDetails ? e.EventDetails.replace(/\s/g, ' ') : undefined,
-          LiveOrTape: e.LiveOrTape.includes('TAPE') ? 'TAPE' : 'LIVE'
+          Live: !e.LiveOrTape.includes('TAPE')
         };
         if (evt.EventDetails) {
           evt.EventDetails = evt.EventDetails.split('').reduce((res, v, i, arr) => {
-            if (/([A-Z])/.exec(v) && arr[i - 1] && arr[i - 1] !== ' ' && arr[i - 1] !== '-') {
+            if (/([A-Z])/.exec(v) && arr[i - 1] && /([a-z])/.exec(arr[i - 1])) {
               res.push(', ');
             }
             res.push(v);
