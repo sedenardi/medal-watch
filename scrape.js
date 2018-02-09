@@ -46,7 +46,7 @@ const parseTable = function(html, year) {
         Date: res[res.length-1].Date
       };
       if (row.find('td').length === 5) {
-        obj.Networks = row.find('td').eq(0).html().replace('<br>', ' ').trim();
+        obj.Networks = row.find('td').eq(0).html().replace(/<br>/g, ' ').trim();
         obj.NetworksRepeat = row.find('td').eq(0).attr('rowspan');
         obj.Start = row.find('td').eq(1).text().trim();
         obj.StartRepeat = row.find('td').eq(1).attr('rowspan');
@@ -107,14 +107,24 @@ const parseTable = function(html, year) {
       const end = moment.tz(`${e.Date} ${year} ${e.End}`, format, timeZone);
       if (start > end) { end.add(1, 'days'); }
       return _.map(e.Networks.split(','), (n) => {
-        return {
+        const evt = {
           Network: n.trim(),
           Start: start.toISOString(),
           End: end.toISOString(),
           EventName: e.EventName.replace(/"/g, ''),
           EventDetails: e.EventDetails ? e.EventDetails.replace(/\s/g, ' ') : undefined,
-          LiveOrTape: e.LiveOrTape
+          LiveOrTape: e.LiveOrTape.includes('TAPE') ? 'TAPE' : 'LIVE'
         };
+        if (evt.EventDetails) {
+          evt.EventDetails = evt.EventDetails.split('').reduce((res, v, i, arr) => {
+            if (/([A-Z])/.exec(v) && arr[i - 1] && arr[i - 1] !== ' ' && arr[i - 1] !== '-') {
+              res.push(', ');
+            }
+            res.push(v);
+            return res;
+          }, []).join('');
+        }
+        return evt;
       });
     })
     .flatten()

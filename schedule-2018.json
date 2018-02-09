@@ -11,7 +11,7 @@
     "Start": "2018-02-10T01:00:00.000Z",
     "End": "2018-02-10T04:00:00.000Z",
     "EventName": "Olympic Opening Ceremony",
-    "LiveOrTape": "TAPE (Live stream at 6 AM)"
+    "LiveOrTape": "TAPE"
   },
   {
     "Network": "NBC",
@@ -33,8 +33,8 @@
     "Start": "2018-02-10T07:00:00.000Z",
     "End": "2018-02-10T10:00:00.000Z",
     "EventName": "Mixed Doubles Curling",
-    "EventDetails": "U.S.-China",
-    "LiveOrTape": "TAPE  (Streamed live at 7:05 PM Fri.)"
+    "EventDetails": "U., S.-China",
+    "LiveOrTape": "TAPE"
   },
   {
     "Network": "Olympic Channel",
@@ -105,7 +105,7 @@
     "End": "2018-02-10T22:00:00.000Z",
     "EventName": "Mixed Doubles Curling",
     "EventDetails": "United States-Norway",
-    "LiveOrTape": "TAPE  (Streamed live at 6:05 AM ET)"
+    "LiveOrTape": "TAPE"
   },
   {
     "Network": "NBC",
@@ -159,7 +159,7 @@
     "Start": "2018-02-11T01:00:00.000Z",
     "End": "2018-02-11T04:00:00.000Z",
     "EventName": "Figure Skating (Team)",
-    "EventDetails": "Ice Dancing Short DanceWomen's Short Program",
+    "EventDetails": "Ice Dancing Short Dance, Women's Short Program",
     "LiveOrTape": "LIVE"
   },
   {
@@ -176,7 +176,7 @@
     "End": "2018-02-11T06:30:00.000Z",
     "EventName": "Mixed Doubles Curling",
     "EventDetails": "United States-Finland",
-    "LiveOrTape": "TAPE  (Streamed live at 7:05 PM ET)"
+    "LiveOrTape": "TAPE"
   },
   {
     "Network": "NBCSN",
@@ -214,7 +214,7 @@
     "End": "2018-02-11T07:40:00.000Z",
     "EventName": "Mixed Doubles Curling",
     "EventDetails": "Canada-South Korea",
-    "LiveOrTape": "TAPE  (Streamed live at 7:05 PM ET)"
+    "LiveOrTape": "TAPE"
   },
   {
     "Network": "NBCSN",
@@ -330,7 +330,7 @@
     "Start": "2018-02-12T00:00:00.000Z",
     "End": "2018-02-12T04:00:00.000Z",
     "EventName": "Figure Skating (Team)",
-    "EventDetails": "Men's Free SkateWomen's Free SkateIce Dancing Free Skate",
+    "EventDetails": "Men's Free Skate, Women's Free Skate, Ice Dancing Free Skate",
     "LiveOrTape": "LIVE"
   },
   {
@@ -875,7 +875,7 @@
     "Start": "2018-02-14T05:30:00.000Z",
     "End": "2018-02-14T07:40:00.000Z",
     "EventName": "Women's Curling",
-    "EventDetails": "U.S.-Great Britain",
+    "EventDetails": "U., S.-Great Britain",
     "LiveOrTape": "TAPE"
   },
   {
@@ -937,7 +937,7 @@
     "Start": "2018-02-14T11:30:00.000Z",
     "End": "2018-02-14T14:30:00.000Z",
     "EventName": "Men's Hockey",
-    "EventDetails": "U.S.-Slovenia",
+    "EventDetails": "U., S.-Slovenia",
     "LiveOrTape": "LIVE"
   },
   {
@@ -1008,7 +1008,7 @@
     "Start": "2018-02-14T22:00:00.000Z",
     "End": "2018-02-15T00:00:00.000Z",
     "EventName": "Hockey",
-    "EventDetails": "\"Game of the Day\"",
+    "EventDetails": "\", Game of the Day\"",
     "LiveOrTape": "TAPE"
   },
   {
@@ -1016,7 +1016,7 @@
     "Start": "2018-02-14T22:00:00.000Z",
     "End": "2018-02-15T01:00:00.000Z",
     "EventName": "Women's Curling",
-    "EventDetails": "U.S.-Japan",
+    "EventDetails": "U., S.-Japan",
     "LiveOrTape": "TAPE"
   },
   {
@@ -1079,7 +1079,7 @@
     "Start": "2018-02-15T03:10:00.000Z",
     "End": "2018-02-15T05:30:00.000Z",
     "EventName": "Women's Hockey",
-    "EventDetails": "U.S.-Canada",
+    "EventDetails": "U., S.-Canada",
     "LiveOrTape": "LIVE"
   },
   {
@@ -1173,7 +1173,7 @@
     "Start": "2018-02-15T19:00:00.000Z",
     "End": "2018-02-15T22:00:00.000Z",
     "EventName": "Men's Curling",
-    "EventDetails": "U.S.-Italy",
+    "EventDetails": "U., S.-Italy",
     "LiveOrTape": "TAPE"
   },
   {
@@ -1197,7 +1197,7 @@
     "Start": "2018-02-15T22:00:00.000Z",
     "End": "2018-02-16T00:00:00.000Z",
     "EventName": "Men's Hockey",
-    "EventDetails": "\"Game of the Day\"",
+    "EventDetails": "\", Game of the Day\"",
     "LiveOrTape": "TAPE"
   },
   {
@@ -1205,7 +1205,7 @@
     "Start": "2018-02-15T22:00:00.000Z",
     "End": "2018-02-16T01:00:00.000Z",
     "EventName": "Women's Curling",
-    "EventDetails": "U.S.-Switzerland",
+    "EventDetails": "U., S.-Switzerland",
     "LiveOrTape": "TAPE"
   },
   {
@@ -1268,7 +1268,7 @@
     "Start": "2018-02-16T03:00:00.000Z",
     "End": "2018-02-16T05:30:00.000Z",
     "EventName": "Men's Hockey",
-    "EventDetails": "U.S.-Slovakia",
+    "EventDetails": "U., S.-Slovakia",
     "LiveOrTape": "LIVE"
   },
   {
@@ -1276,7 +1276,7 @@
     "Start": "2018-02-16T04:00:00.000Z",
     "End": "2018-02-16T07:40:00.000Z",
     "EventName": "Men's Curling",
-    "EventDetails": "U.S.-Sweden",
+    "EventDetails": "U., S.-Sweden",
     "LiveOrTape": "TAPE"
   },
   {
@@ -1292,7 +1292,7 @@
     "Start": "2018-02-16T05:30:00.000Z",
     "End": "2018-02-16T07:40:00.000Z",
     "EventName": "Women's Curling",
-    "EventDetails": "U.S.-Russians",
+    "EventDetails": "U., S.-Russians",
     "LiveOrTape": "TAPE"
   },
   {
@@ -1425,7 +1425,7 @@
     "Start": "2018-02-16T22:00:00.000Z",
     "End": "2018-02-17T00:00:00.000Z",
     "EventName": "Hockey",
-    "EventDetails": "\"Game of the Day\"",
+    "EventDetails": "\", Game of the Day\"",
     "LiveOrTape": "TAPE"
   },
   {
@@ -1433,7 +1433,7 @@
     "Start": "2018-02-16T22:00:00.000Z",
     "End": "2018-02-17T01:00:00.000Z",
     "EventName": "Men's Curling",
-    "EventDetails": "U.S.-Denmark",
+    "EventDetails": "U., S.-Denmark",
     "LiveOrTape": "TAPE"
   },
   {
@@ -1504,7 +1504,7 @@
     "Start": "2018-02-17T05:30:00.000Z",
     "End": "2018-02-17T07:40:00.000Z",
     "EventName": "Men's Curling",
-    "EventDetails": "U.S.-Japan",
+    "EventDetails": "U., S.-Japan",
     "LiveOrTape": "TAPE"
   },
   {
@@ -1566,7 +1566,7 @@
     "Start": "2018-02-17T12:10:00.000Z",
     "End": "2018-02-17T15:30:00.000Z",
     "EventName": "Men's Hockey",
-    "EventDetails": "U.S.-Russians",
+    "EventDetails": "U., S.-Russians",
     "LiveOrTape": "LIVE"
   },
   {
@@ -1622,7 +1622,7 @@
     "Start": "2018-02-17T18:30:00.000Z",
     "End": "2018-02-17T22:30:00.000Z",
     "EventName": "Hockey",
-    "EventDetails": "\"Game of the Day\"",
+    "EventDetails": "\", Game of the Day\"",
     "LiveOrTape": "TAPE"
   },
   {
@@ -1654,7 +1654,7 @@
     "Start": "2018-02-17T22:00:00.000Z",
     "End": "2018-02-18T01:00:00.000Z",
     "EventName": "Women's Curling",
-    "EventDetails": "U.S.-Canada",
+    "EventDetails": "U., S.-Canada",
     "LiveOrTape": "TAPE"
   },
   {
@@ -1835,7 +1835,7 @@
     "Start": "2018-02-18T18:00:00.000Z",
     "End": "2018-02-18T22:00:00.000Z",
     "EventName": "Hockey",
-    "EventDetails": "\"Game of the Day\"",
+    "EventDetails": "\", Game of the Day\"",
     "LiveOrTape": "TAPE"
   },
   {
@@ -1867,7 +1867,7 @@
     "Start": "2018-02-18T21:00:00.000Z",
     "End": "2018-02-19T00:00:00.000Z",
     "EventName": "Men's Curling",
-    "EventDetails": "U.S.-Norway",
+    "EventDetails": "U., S.-Norway",
     "LiveOrTape": "TAPE"
   },
   {
@@ -1969,7 +1969,7 @@
     "Start": "2018-02-19T06:30:00.000Z",
     "End": "2018-02-19T09:30:00.000Z",
     "EventName": "Women's Curling",
-    "EventDetails": "U.S.-Denmark",
+    "EventDetails": "U., S.-Denmark",
     "LiveOrTape": "TAPE"
   },
   {
@@ -1977,7 +1977,7 @@
     "Start": "2018-02-19T09:30:00.000Z",
     "End": "2018-02-19T12:10:00.000Z",
     "EventName": "Men's Curling",
-    "EventDetails": "U.S.-Canada",
+    "EventDetails": "U., S.-Canada",
     "LiveOrTape": "TAPE"
   },
   {
@@ -2032,7 +2032,7 @@
     "Start": "2018-02-19T17:30:00.000Z",
     "End": "2018-02-19T20:30:00.000Z",
     "EventName": "Men's Curling",
-    "EventDetails": "U.S.-Canada",
+    "EventDetails": "U., S.-Canada",
     "LiveOrTape": "TAPE"
   },
   {
@@ -2064,7 +2064,7 @@
     "Start": "2018-02-19T20:30:00.000Z",
     "End": "2018-02-20T00:00:00.000Z",
     "EventName": "Hockey",
-    "EventDetails": "\"Game of the Day\" (2x)",
+    "EventDetails": "\", Game of the Day\" (2x)",
     "LiveOrTape": "TAPE"
   },
   {
@@ -2072,7 +2072,7 @@
     "Start": "2018-02-19T22:00:00.000Z",
     "End": "2018-02-20T01:00:00.000Z",
     "EventName": "Women's Curling",
-    "EventDetails": "U.S.-China",
+    "EventDetails": "U., S.-China",
     "LiveOrTape": "TAPE"
   },
   {
@@ -2151,7 +2151,7 @@
     "Start": "2018-02-20T05:00:00.000Z",
     "End": "2018-02-20T22:00:00.000Z",
     "EventName": "Women's Curling",
-    "EventDetails": "U.S.-South Korea",
+    "EventDetails": "U., S.-South Korea",
     "LiveOrTape": "TAPE"
   },
   {
@@ -2197,7 +2197,7 @@
     "Start": "2018-02-20T10:00:00.000Z",
     "End": "2018-02-20T12:10:00.000Z",
     "EventName": "Women's Curling",
-    "EventDetails": "U.S.-South Korea",
+    "EventDetails": "U., S.-South Korea",
     "LiveOrTape": "TAPE"
   },
   {
@@ -2253,7 +2253,7 @@
     "Start": "2018-02-20T22:00:00.000Z",
     "End": "2018-02-21T00:00:00.000Z",
     "EventName": "Hockey",
-    "EventDetails": "\"Game of the Day\"",
+    "EventDetails": "\", Game of the Day\"",
     "LiveOrTape": "TAPE"
   },
   {
@@ -2261,7 +2261,7 @@
     "Start": "2018-02-20T22:00:00.000Z",
     "End": "2018-02-21T01:00:00.000Z",
     "EventName": "Men's Curling",
-    "EventDetails": "U.S.-Switzerland",
+    "EventDetails": "U., S.-Switzerland",
     "LiveOrTape": "TAPE"
   },
   {
@@ -2378,7 +2378,7 @@
     "Start": "2018-02-21T10:00:00.000Z",
     "End": "2018-02-21T12:10:00.000Z",
     "EventName": "Men's Curling",
-    "EventDetails": "U.S.-Great Britain",
+    "EventDetails": "U., S.-Great Britain",
     "LiveOrTape": "TAPE"
   },
   {
@@ -2442,7 +2442,7 @@
     "Start": "2018-02-21T18:30:00.000Z",
     "End": "2018-02-21T22:00:00.000Z",
     "EventName": "Men's Curling",
-    "EventDetails": "U.S.-Great Britain",
+    "EventDetails": "U., S.-Great Britain",
     "LiveOrTape": "TAPE"
   },
   {
@@ -2473,7 +2473,7 @@
     "Start": "2018-02-21T22:00:00.000Z",
     "End": "2018-02-22T00:00:00.000Z",
     "EventName": "Hockey",
-    "EventDetails": "\"Game of the Day\"",
+    "EventDetails": "\", Game of the Day\"",
     "LiveOrTape": "TAPE"
   },
   {
@@ -2481,7 +2481,7 @@
     "Start": "2018-02-21T22:00:00.000Z",
     "End": "2018-02-22T01:00:00.000Z",
     "EventName": "Women's Curling",
-    "EventDetails": "U.S.-Sweden",
+    "EventDetails": "U., S.-Sweden",
     "LiveOrTape": "TAPE"
   },
   {
@@ -2693,7 +2693,7 @@
     "Start": "2018-02-22T21:45:00.000Z",
     "End": "2018-02-23T00:00:00.000Z",
     "EventName": "Hockey",
-    "EventDetails": "\"Game of the Day\"",
+    "EventDetails": "\", Game of the Day\"",
     "LiveOrTape": "TAPE"
   },
   {
@@ -2857,7 +2857,7 @@
     "Start": "2018-02-23T21:00:00.000Z",
     "End": "2018-02-24T01:00:00.000Z",
     "EventName": "Hockey",
-    "EventDetails": "\"Game of the Day\" (2x)",
+    "EventDetails": "\", Game of the Day\" (2x)",
     "LiveOrTape": "TAPE"
   },
   {
@@ -2991,7 +2991,7 @@
     "Start": "2018-02-24T19:00:00.000Z",
     "End": "2018-02-24T21:00:00.000Z",
     "EventName": "Men's Hockey",
-    "EventDetails": "\"Game of the Day\"",
+    "EventDetails": "\", Game of the Day\"",
     "LiveOrTape": "TAPE"
   },
   {
@@ -3069,7 +3069,7 @@
     "Start": "2018-02-25T04:30:00.000Z",
     "End": "2018-02-25T05:30:00.000Z",
     "EventName": "Primetime Plus",
-    "LiveOrTape": "TBD"
+    "LiveOrTape": "LIVE"
   },
   {
     "Network": "NBCSN",
