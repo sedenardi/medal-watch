@@ -1,0 +1,20 @@
+{
+  "name": "medal-watch",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Olympics TV Schedule",
+  "author": "Sanders DeNardi",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sedenardi/medal-watch.git"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/sedenardi/medal-watch",
+  "engines": {
+    "node": ">= 8.0.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.2.1",
+    "eslint": "^4.15.0"
+  }
+}
