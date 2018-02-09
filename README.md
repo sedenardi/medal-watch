@@ -1,4 +1,4 @@
-# gulp-ultimate-dependent
+# medal-watch
 
 Olympics TV Schedule
 
