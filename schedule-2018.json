@@ -1,0 +1,3127 @@
+[
+  {
+    "Network": "NBC",
+    "Start": "2018-02-09T05:38:00.000Z",
+    "End": "2018-02-09T08:38:00.000Z",
+    "EventName": "Primetime Encore",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-10T01:00:00.000Z",
+    "End": "2018-02-10T04:00:00.000Z",
+    "EventName": "Olympic Opening Ceremony",
+    "LiveOrTape": "TAPE (Live stream at 6 AM)"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-10T05:30:00.000Z",
+    "End": "2018-02-10T08:30:00.000Z",
+    "EventName": "Primetime Encore",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-10T07:00:00.000Z",
+    "End": "2018-02-10T10:00:00.000Z",
+    "EventName": "Women's Cross Country",
+    "EventDetails": "Skiathlon Final",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-10T07:00:00.000Z",
+    "End": "2018-02-10T10:00:00.000Z",
+    "EventName": "Mixed Doubles Curling",
+    "EventDetails": "U.S.-China",
+    "LiveOrTape": "TAPE  (Streamed live at 7:05 PM Fri.)"
+  },
+  {
+    "Network": "Olympic Channel",
+    "Start": "2018-02-10T10:00:00.000Z",
+    "End": "2018-02-10T12:00:00.000Z",
+    "EventName": "Medal Ceremonies",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-10T10:00:00.000Z",
+    "End": "2018-02-10T12:35:00.000Z",
+    "EventName": "Short Track",
+    "EventDetails": "Gold Medal Final",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "USA",
+    "Start": "2018-02-10T12:00:00.000Z",
+    "End": "2018-02-10T14:30:00.000Z",
+    "EventName": "Women's Hockey",
+    "EventDetails": "South Korea-Switzerland",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-10T12:35:00.000Z",
+    "End": "2018-02-10T16:30:00.000Z",
+    "EventName": "Men's Ski Jumping",
+    "EventDetails": "Individual Normal Hill Final",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-10T12:35:00.000Z",
+    "End": "2018-02-10T16:30:00.000Z",
+    "EventName": "Men's Snowboarding",
+    "EventDetails": "Slopestyle",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-10T16:30:00.000Z",
+    "End": "2018-02-10T18:00:00.000Z",
+    "EventName": "Men's Luge",
+    "EventDetails": "Singles",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-10T18:00:00.000Z",
+    "End": "2018-02-10T22:00:00.000Z",
+    "EventName": "Women's Speedskating",
+    "EventDetails": "3000m Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-10T18:00:00.000Z",
+    "End": "2018-02-10T22:00:00.000Z",
+    "EventName": "Women's Biathlon",
+    "EventDetails": "7.5km Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-10T18:00:00.000Z",
+    "End": "2018-02-10T22:00:00.000Z",
+    "EventName": "Mixed Doubles Curling",
+    "EventDetails": "United States-Norway",
+    "LiveOrTape": "TAPE  (Streamed live at 6:05 AM ET)"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-10T20:00:00.000Z",
+    "End": "2018-02-10T23:00:00.000Z",
+    "EventName": "Men's Snowboarding",
+    "EventDetails": "Slopestyle",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-10T20:00:00.000Z",
+    "End": "2018-02-10T23:00:00.000Z",
+    "EventName": "Short Track",
+    "EventDetails": "Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-10T20:00:00.000Z",
+    "End": "2018-02-10T23:00:00.000Z",
+    "EventName": "Men's Ski Jumping",
+    "EventDetails": "Individual Normal Hill Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-10T20:00:00.000Z",
+    "End": "2018-02-10T23:00:00.000Z",
+    "EventName": "Men's Luge",
+    "EventDetails": "Singles",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-11T00:45:00.000Z",
+    "End": "2018-02-11T02:45:00.000Z",
+    "EventName": "Olympic Ice",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-11T00:45:00.000Z",
+    "End": "2018-02-11T02:45:00.000Z",
+    "EventName": "Men's Snowboarding",
+    "EventDetails": "Slopestyle Final",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-11T01:00:00.000Z",
+    "End": "2018-02-11T04:00:00.000Z",
+    "EventName": "Figure Skating (Team)",
+    "EventDetails": "Ice Dancing Short DanceWomen's Short Program",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-11T01:00:00.000Z",
+    "End": "2018-02-11T04:00:00.000Z",
+    "EventName": "Men's Alpine Skiing",
+    "EventDetails": "Downhill Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-11T02:45:00.000Z",
+    "End": "2018-02-11T06:30:00.000Z",
+    "EventName": "Mixed Doubles Curling",
+    "EventDetails": "United States-Finland",
+    "LiveOrTape": "TAPE  (Streamed live at 7:05 PM ET)"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-11T02:45:00.000Z",
+    "End": "2018-02-11T06:30:00.000Z",
+    "EventName": "Women's Snowboarding",
+    "EventDetails": "Slopestyle",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-11T04:30:00.000Z",
+    "End": "2018-02-11T05:30:00.000Z",
+    "EventName": "Figure Skating (Team)",
+    "EventDetails": "Pairs Free Skate",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-11T06:00:00.000Z",
+    "End": "2018-02-11T09:30:00.000Z",
+    "EventName": "Primetime Encore",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-11T06:00:00.000Z",
+    "End": "2018-02-11T10:00:00.000Z",
+    "EventName": "6:30 AM",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-11T06:30:00.000Z",
+    "End": "2018-02-11T07:40:00.000Z",
+    "EventName": "Mixed Doubles Curling",
+    "EventDetails": "Canada-South Korea",
+    "LiveOrTape": "TAPE  (Streamed live at 7:05 PM ET)"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-11T07:40:00.000Z",
+    "End": "2018-02-11T10:00:00.000Z",
+    "EventName": "Women's Hockey",
+    "EventDetails": "United States-Finland",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "Olympic Channel",
+    "Start": "2018-02-11T10:00:00.000Z",
+    "End": "2018-02-11T12:00:00.000Z",
+    "EventName": "Medal Ceremonies",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-11T10:00:00.000Z",
+    "End": "2018-02-11T14:00:00.000Z",
+    "EventName": "Men's Biathlon",
+    "EventDetails": "10km Sprint Final",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-11T10:00:00.000Z",
+    "End": "2018-02-11T14:00:00.000Z",
+    "EventName": "Men's Speedskating",
+    "EventDetails": "5000m Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-11T10:00:00.000Z",
+    "End": "2018-02-11T14:00:00.000Z",
+    "EventName": "Men's Cross Country",
+    "EventDetails": "Skiathlon Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "USA",
+    "Start": "2018-02-11T12:00:00.000Z",
+    "End": "2018-02-11T14:30:00.000Z",
+    "EventName": "Women's Hockey",
+    "EventDetails": "Canada-Russians",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-11T18:30:00.000Z",
+    "End": "2018-02-11T22:30:00.000Z",
+    "EventName": "Mixed Doubles Curling",
+    "EventDetails": "Tiebreaker",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-11T18:30:00.000Z",
+    "End": "2018-02-11T22:30:00.000Z",
+    "EventName": "Men's Luge",
+    "EventDetails": "Singles Final Runs",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-11T18:30:00.000Z",
+    "End": "2018-02-11T22:30:00.000Z",
+    "EventName": "Medal Ceremonies",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-11T20:00:00.000Z",
+    "End": "2018-02-11T23:00:00.000Z",
+    "EventName": "Men's Speedskating",
+    "EventDetails": "5000m Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-11T20:00:00.000Z",
+    "End": "2018-02-11T23:00:00.000Z",
+    "EventName": "Men's Biathlon",
+    "EventDetails": "10km Sprint Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-11T20:00:00.000Z",
+    "End": "2018-02-11T23:00:00.000Z",
+    "EventName": "Men's Cross Country",
+    "EventDetails": "Skiathlon Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-11T22:30:00.000Z",
+    "End": "2018-02-12T01:00:00.000Z",
+    "EventName": "Olympic Ice",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-11T22:30:00.000Z",
+    "End": "2018-02-12T01:00:00.000Z",
+    "EventName": "Men's Biathlon",
+    "EventDetails": "10km Sprint Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-12T00:00:00.000Z",
+    "End": "2018-02-12T04:00:00.000Z",
+    "EventName": "Figure Skating (Team)",
+    "EventDetails": "Men's Free SkateWomen's Free SkateIce Dancing Free Skate",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-12T00:00:00.000Z",
+    "End": "2018-02-12T04:00:00.000Z",
+    "EventName": "Women's Alpine Skiing",
+    "EventDetails": "Giant Slalom",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-12T00:00:00.000Z",
+    "End": "2018-02-12T04:00:00.000Z",
+    "EventName": "Women's Freestyle Skiing",
+    "EventDetails": "Moguls Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-12T00:00:00.000Z",
+    "End": "2018-02-12T04:00:00.000Z",
+    "EventName": "Women's Snowboarding",
+    "EventDetails": "Slopestyle Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-12T00:00:00.000Z",
+    "End": "2018-02-12T04:00:00.000Z",
+    "EventName": "Men's Luge",
+    "EventDetails": "Singles Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-12T01:00:00.000Z",
+    "End": "2018-02-12T04:30:00.000Z",
+    "EventName": "Women's Snowboarding",
+    "EventDetails": "Slopestyle Final",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-12T01:00:00.000Z",
+    "End": "2018-02-12T04:30:00.000Z",
+    "EventName": "Mixed Doubles Curling",
+    "EventDetails": "Semifinal",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-12T04:30:00.000Z",
+    "End": "2018-02-12T07:40:00.000Z",
+    "EventName": "Mixed Doubles Curling",
+    "EventDetails": "Semifinal Encore",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-12T04:30:00.000Z",
+    "End": "2018-02-12T07:40:00.000Z",
+    "EventName": "Men's Speedskating",
+    "EventDetails": "5000m Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-12T04:35:00.000Z",
+    "End": "2018-02-12T06:00:00.000Z",
+    "EventName": "Women's Alpine Skiing",
+    "EventDetails": "Giant Slalom Final",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-12T04:35:00.000Z",
+    "End": "2018-02-12T06:00:00.000Z",
+    "EventName": "Women's Snowboarding",
+    "EventDetails": "Halfpipe",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-12T05:05:00.000Z",
+    "End": "2018-02-12T07:00:00.000Z",
+    "EventName": "Men's Alpine Skiing",
+    "EventDetails": "Combined, Slalom Final",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-12T05:05:00.000Z",
+    "End": "2018-02-12T07:00:00.000Z",
+    "EventName": "Men's Snowboarding",
+    "EventDetails": "Halfpipe",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-12T07:00:00.000Z",
+    "End": "2018-02-12T09:30:00.000Z",
+    "EventName": "Primetime Encore",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-12T07:40:00.000Z",
+    "End": "2018-02-12T10:10:00.000Z",
+    "EventName": "Women's Hockey",
+    "EventDetails": "Switzerland-Japan",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "Olympic Channel",
+    "Start": "2018-02-12T10:00:00.000Z",
+    "End": "2018-02-12T12:00:00.000Z",
+    "EventName": "Medal Ceremonies",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-12T10:10:00.000Z",
+    "End": "2018-02-12T12:00:00.000Z",
+    "EventName": "Women's Luge",
+    "EventDetails": "Singles",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-12T10:10:00.000Z",
+    "End": "2018-02-12T12:00:00.000Z",
+    "EventName": "Women's Biathlon",
+    "EventDetails": "Pursuit Final",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-12T12:00:00.000Z",
+    "End": "2018-02-12T16:00:00.000Z",
+    "EventName": "Men's Freestyle Skiing",
+    "EventDetails": "Moguls Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-12T12:00:00.000Z",
+    "End": "2018-02-12T16:00:00.000Z",
+    "EventName": "Women's Hockey",
+    "EventDetails": "Sweden-South Korea",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-12T12:00:00.000Z",
+    "End": "2018-02-12T16:00:00.000Z",
+    "EventName": "Women's Luge",
+    "EventDetails": "Singles",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-12T16:00:00.000Z",
+    "End": "2018-02-12T20:00:00.000Z",
+    "EventName": "Women's Ski Jumping",
+    "EventDetails": "Individual Normal Hill Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-12T16:00:00.000Z",
+    "End": "2018-02-12T20:00:00.000Z",
+    "EventName": "Men's Biathlon",
+    "EventDetails": "Pursuit Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-12T16:00:00.000Z",
+    "End": "2018-02-12T20:00:00.000Z",
+    "EventName": "Women's Speedskating",
+    "EventDetails": "1500 Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-12T20:00:00.000Z",
+    "End": "2018-02-12T22:00:00.000Z",
+    "EventName": "Men's Freestyle Skiing",
+    "EventDetails": "Moguls Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-12T20:00:00.000Z",
+    "End": "2018-02-12T22:00:00.000Z",
+    "EventName": "Women's Ski Jumping",
+    "EventDetails": "Individual Normal Hill Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-12T20:00:00.000Z",
+    "End": "2018-02-12T22:00:00.000Z",
+    "EventName": "Women's Luge",
+    "EventDetails": "Singles",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "CNBC",
+    "Start": "2018-02-12T22:00:00.000Z",
+    "End": "2018-02-13T01:00:00.000Z",
+    "EventName": "Mixed Doubles Curling",
+    "EventDetails": "Semifinal",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-12T22:00:00.000Z",
+    "End": "2018-02-13T01:00:00.000Z",
+    "EventName": "Hockey",
+    "EventDetails": "Game of the Day",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-12T22:00:00.000Z",
+    "End": "2018-02-13T01:00:00.000Z",
+    "EventName": "Olympic Ice",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-13T01:00:00.000Z",
+    "End": "2018-02-13T04:30:00.000Z",
+    "EventName": "Men's Alpine Skiing",
+    "EventDetails": "Combined, Downhill Run",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-13T01:00:00.000Z",
+    "End": "2018-02-13T04:30:00.000Z",
+    "EventName": "Men's Snowboarding",
+    "EventDetails": "Halfpipe",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-13T01:00:00.000Z",
+    "End": "2018-02-13T04:30:00.000Z",
+    "EventName": "Women's Snowboarding",
+    "EventDetails": "Halfpipe",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-13T01:00:00.000Z",
+    "End": "2018-02-13T04:30:00.000Z",
+    "EventName": "Women's Speedskating",
+    "EventDetails": "1500m Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-13T01:00:00.000Z",
+    "End": "2018-02-13T04:30:00.000Z",
+    "EventName": "Mixed Doubles Curling",
+    "EventDetails": "Semifinal (encore)",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-13T01:00:00.000Z",
+    "End": "2018-02-13T04:30:00.000Z",
+    "EventName": "Hockey",
+    "EventDetails": "Game of the Day",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-13T04:30:00.000Z",
+    "End": "2018-02-13T07:40:00.000Z",
+    "EventName": "Men's Snowboarding",
+    "EventDetails": "Halfpipe",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-13T04:30:00.000Z",
+    "End": "2018-02-13T07:40:00.000Z",
+    "EventName": "Mixed Doubles Curling",
+    "EventDetails": "Third-Place Match",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-13T05:05:00.000Z",
+    "End": "2018-02-13T06:30:00.000Z",
+    "EventName": "Women's Alpine Skiing",
+    "EventDetails": "Slalom Final",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-13T05:05:00.000Z",
+    "End": "2018-02-13T06:30:00.000Z",
+    "EventName": "Short Track",
+    "EventDetails": "Final",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-13T05:30:00.000Z",
+    "End": "2018-02-13T07:30:00.000Z",
+    "EventName": "Men's Curling",
+    "EventDetails": "United States-South Korea",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-13T06:30:00.000Z",
+    "End": "2018-02-13T09:30:00.000Z",
+    "EventName": "Primetime Encore",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-13T07:40:00.000Z",
+    "End": "2018-02-13T10:00:00.000Z",
+    "EventName": "Women's Hockey",
+    "EventDetails": "Canada-Finland",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-13T10:00:00.000Z",
+    "End": "2018-02-13T12:10:00.000Z",
+    "EventName": "Women's Luge",
+    "EventDetails": "Singles Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-13T10:00:00.000Z",
+    "End": "2018-02-13T12:10:00.000Z",
+    "EventName": "Men's Cross Country",
+    "EventDetails": "Individual Sprint",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-13T10:00:00.000Z",
+    "End": "2018-02-13T12:10:00.000Z",
+    "EventName": "Women's Cross Country",
+    "EventDetails": "Individual Sprint",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-13T12:10:00.000Z",
+    "End": "2018-02-13T14:30:00.000Z",
+    "EventName": "Women's Hockey",
+    "EventDetails": "United States-Russians",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-13T14:30:00.000Z",
+    "End": "2018-02-13T17:30:00.000Z",
+    "EventName": "Men's Speedskating",
+    "EventDetails": "1500m Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-13T14:30:00.000Z",
+    "End": "2018-02-13T17:30:00.000Z",
+    "EventName": "Women's Luge",
+    "EventDetails": "Singles",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-13T14:30:00.000Z",
+    "End": "2018-02-13T17:30:00.000Z",
+    "EventName": "Men's Cross Country",
+    "EventDetails": "Individual Sprint Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-13T14:30:00.000Z",
+    "End": "2018-02-13T17:30:00.000Z",
+    "EventName": "Women's Cross Country",
+    "EventDetails": "Individual Sprint Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-13T17:30:00.000Z",
+    "End": "2018-02-13T21:30:00.000Z",
+    "EventName": "Short Track",
+    "EventDetails": "Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-13T17:30:00.000Z",
+    "End": "2018-02-13T21:30:00.000Z",
+    "EventName": "Mixed Doubles Curling",
+    "EventDetails": "Third-Place Match (encore)",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-13T20:00:00.000Z",
+    "End": "2018-02-13T22:00:00.000Z",
+    "EventName": "Men's Speedskating",
+    "EventDetails": "1500m Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-13T20:00:00.000Z",
+    "End": "2018-02-13T22:00:00.000Z",
+    "EventName": "Women's Luge",
+    "EventDetails": "Singles Finals",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-13T20:00:00.000Z",
+    "End": "2018-02-13T22:00:00.000Z",
+    "EventName": "Men's Cross Country",
+    "EventDetails": "Individual Sprint Finals",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-13T20:00:00.000Z",
+    "End": "2018-02-13T22:00:00.000Z",
+    "EventName": "Women's Cross Country",
+    "EventDetails": "Individual Sprint Finals",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-13T21:30:00.000Z",
+    "End": "2018-02-14T00:00:00.000Z",
+    "EventName": "Medal Ceremonies",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-13T21:30:00.000Z",
+    "End": "2018-02-14T00:00:00.000Z",
+    "EventName": "Hockey",
+    "EventDetails": "Game of the Day",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "Olympic Channel",
+    "Start": "2018-02-13T22:00:00.000Z",
+    "End": "2018-02-14T12:00:00.000Z",
+    "EventName": "Medal Ceremonies",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "CNBC",
+    "Start": "2018-02-13T22:00:00.000Z",
+    "End": "2018-02-14T01:00:00.000Z",
+    "EventName": "Mixed Doubles Curling",
+    "EventDetails": "Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-14T00:00:00.000Z",
+    "End": "2018-02-14T03:10:00.000Z",
+    "EventName": "Olympic Ice",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-14T00:00:00.000Z",
+    "End": "2018-02-14T03:10:00.000Z",
+    "EventName": "Figure Skating",
+    "EventDetails": "Pairs' Short Program",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-14T01:00:00.000Z",
+    "End": "2018-02-14T04:30:00.000Z",
+    "EventName": "Figure Skating",
+    "EventDetails": "Pairs' Short Program",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-14T01:00:00.000Z",
+    "End": "2018-02-14T04:30:00.000Z",
+    "EventName": "Women's Alpine Skiing",
+    "EventDetails": "Slalom First Run",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-14T01:00:00.000Z",
+    "End": "2018-02-14T04:30:00.000Z",
+    "EventName": "Men's Snowboarding",
+    "EventDetails": "Halfpipe Final",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-14T03:10:00.000Z",
+    "End": "2018-02-14T05:30:00.000Z",
+    "EventName": "Women's Hockey",
+    "EventDetails": "Sweden-Switzerland",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-14T05:05:00.000Z",
+    "End": "2018-02-14T06:30:00.000Z",
+    "EventName": "Men's Snowboard",
+    "EventDetails": "Cross Final",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-14T05:05:00.000Z",
+    "End": "2018-02-14T06:30:00.000Z",
+    "EventName": "Men's Skelton",
+    "EventDetails": "Competition",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-14T05:30:00.000Z",
+    "End": "2018-02-14T07:40:00.000Z",
+    "EventName": "Women's Curling",
+    "EventDetails": "U.S.-Great Britain",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-14T06:30:00.000Z",
+    "End": "2018-02-14T09:30:00.000Z",
+    "EventName": "Primetime Encore",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "USA",
+    "Start": "2018-02-14T07:30:00.000Z",
+    "End": "2018-02-14T10:00:00.000Z",
+    "EventName": "Women's Hockey",
+    "EventDetails": "South Korea-Japan",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-14T07:30:00.000Z",
+    "End": "2018-02-14T11:30:00.000Z",
+    "EventName": "Women's Speed Skating",
+    "EventDetails": "1000m Final",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-14T07:30:00.000Z",
+    "End": "2018-02-14T11:30:00.000Z",
+    "EventName": "Men's Nordic Combined",
+    "EventDetails": "Ind. Normal Hill/10km Final",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-14T07:30:00.000Z",
+    "End": "2018-02-14T11:30:00.000Z",
+    "EventName": "Women's Skeleton",
+    "EventDetails": "Training",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "Olympic Channel",
+    "Start": "2018-02-14T10:00:00.000Z",
+    "End": "2018-02-14T12:00:00.000Z",
+    "EventName": "Medal Ceremonies",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "USA",
+    "Start": "2018-02-14T10:00:00.000Z",
+    "End": "2018-02-14T12:10:00.000Z",
+    "EventName": "Women's Curling",
+    "EventDetails": "Great Britain-Russians",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-14T11:30:00.000Z",
+    "End": "2018-02-14T14:30:00.000Z",
+    "EventName": "Men's Hockey",
+    "EventDetails": "U.S.-Slovenia",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "USA",
+    "Start": "2018-02-14T12:10:00.000Z",
+    "End": "2018-02-14T14:30:00.000Z",
+    "EventName": "Men's Hockey",
+    "EventDetails": "Slovakia-Russians",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-14T14:30:00.000Z",
+    "End": "2018-02-14T16:30:00.000Z",
+    "EventName": "Luge",
+    "EventDetails": "Doubles Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-14T14:30:00.000Z",
+    "End": "2018-02-14T16:30:00.000Z",
+    "EventName": "Women's Skeleton",
+    "EventDetails": "Training",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-14T16:30:00.000Z",
+    "End": "2018-02-14T18:15:00.000Z",
+    "EventName": "Women's Biathlon",
+    "EventDetails": "15km Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-14T18:15:00.000Z",
+    "End": "2018-02-14T22:00:00.000Z",
+    "EventName": "Women's Curling",
+    "EventDetails": "Denmark-Sweden",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-14T18:15:00.000Z",
+    "End": "2018-02-14T22:00:00.000Z",
+    "EventName": "Medal Ceremonies",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-14T20:00:00.000Z",
+    "End": "2018-02-14T22:00:00.000Z",
+    "EventName": "Luge",
+    "EventDetails": "Doubles Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-14T20:00:00.000Z",
+    "End": "2018-02-14T22:00:00.000Z",
+    "EventName": "Men's Nordic Combined",
+    "EventDetails": "Ind. Normal Hill/10km Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-14T22:00:00.000Z",
+    "End": "2018-02-15T00:00:00.000Z",
+    "EventName": "Hockey",
+    "EventDetails": "\"Game of the Day\"",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "CNBC",
+    "Start": "2018-02-14T22:00:00.000Z",
+    "End": "2018-02-15T01:00:00.000Z",
+    "EventName": "Women's Curling",
+    "EventDetails": "U.S.-Japan",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-15T00:00:00.000Z",
+    "End": "2018-02-15T03:10:00.000Z",
+    "EventName": "Olympic Ice",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-15T00:00:00.000Z",
+    "End": "2018-02-15T03:10:00.000Z",
+    "EventName": "Figure Skating",
+    "EventDetails": "Pairs Final",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-15T01:00:00.000Z",
+    "End": "2018-02-15T04:30:00.000Z",
+    "EventName": "Figure Skating",
+    "EventDetails": "Pairs Final",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-15T01:00:00.000Z",
+    "End": "2018-02-15T04:30:00.000Z",
+    "EventName": "Men's Alpine Skiing",
+    "EventDetails": "Super G Final",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-15T01:00:00.000Z",
+    "End": "2018-02-15T04:30:00.000Z",
+    "EventName": "Men's Skeleton",
+    "EventDetails": "Competition",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-15T01:00:00.000Z",
+    "End": "2018-02-15T04:30:00.000Z",
+    "EventName": "Women's Speedskating",
+    "EventDetails": "1000m Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "CNBC",
+    "Start": "2018-02-15T03:00:00.000Z",
+    "End": "2018-02-15T05:30:00.000Z",
+    "EventName": "Men's Hockey",
+    "EventDetails": "Finland-Germany",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-15T03:10:00.000Z",
+    "End": "2018-02-15T05:30:00.000Z",
+    "EventName": "Women's Hockey",
+    "EventDetails": "U.S.-Canada",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-15T05:00:00.000Z",
+    "End": "2018-02-15T19:00:00.000Z",
+    "EventName": "Men's Biathlon",
+    "EventDetails": "20km Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-15T07:00:00.000Z",
+    "End": "2018-02-15T09:30:00.000Z",
+    "EventName": "Primetime Encore",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "USA",
+    "Start": "2018-02-15T07:30:00.000Z",
+    "End": "2018-02-15T10:00:00.000Z",
+    "EventName": "Women's Hockey",
+    "EventDetails": "Finland-Russians",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-15T07:40:00.000Z",
+    "End": "2018-02-15T10:00:00.000Z",
+    "EventName": "Men's Hockey",
+    "EventDetails": "Norway-Sweden",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "Olympic Channel",
+    "Start": "2018-02-15T10:00:00.000Z",
+    "End": "2018-02-15T12:00:00.000Z",
+    "EventName": "Medal Ceremonies",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "USA",
+    "Start": "2018-02-15T10:00:00.000Z",
+    "End": "2018-02-15T12:10:00.000Z",
+    "EventName": "Men's Curling",
+    "EventDetails": "Canada-Norway",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-15T10:00:00.000Z",
+    "End": "2018-02-15T12:10:00.000Z",
+    "EventName": "Women's Cross Country",
+    "EventDetails": "10km Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "USA",
+    "Start": "2018-02-15T12:10:00.000Z",
+    "End": "2018-02-15T14:30:00.000Z",
+    "EventName": "Men's Hockey",
+    "EventDetails": "Czech Republic-South Korea",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-15T12:10:00.000Z",
+    "End": "2018-02-15T14:30:00.000Z",
+    "EventName": "Men's Hockey",
+    "EventDetails": "Switzerland-Canada",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-15T14:30:00.000Z",
+    "End": "2018-02-16T05:00:00.000Z",
+    "EventName": "Luge",
+    "EventDetails": "Team Relay Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-15T14:30:00.000Z",
+    "End": "2018-02-16T05:00:00.000Z",
+    "EventName": "Men's Speedskating",
+    "EventDetails": "10000m Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-15T19:00:00.000Z",
+    "End": "2018-02-15T22:00:00.000Z",
+    "EventName": "Men's Curling",
+    "EventDetails": "U.S.-Italy",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-15T20:00:00.000Z",
+    "End": "2018-02-15T22:00:00.000Z",
+    "EventName": "Women's Cross Country",
+    "EventDetails": "10km Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-15T20:00:00.000Z",
+    "End": "2018-02-15T22:00:00.000Z",
+    "EventName": "Men's Speedskating",
+    "EventDetails": "10000m Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-15T22:00:00.000Z",
+    "End": "2018-02-16T00:00:00.000Z",
+    "EventName": "Men's Hockey",
+    "EventDetails": "\"Game of the Day\"",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "CNBC",
+    "Start": "2018-02-15T22:00:00.000Z",
+    "End": "2018-02-16T01:00:00.000Z",
+    "EventName": "Women's Curling",
+    "EventDetails": "U.S.-Switzerland",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-16T00:00:00.000Z",
+    "End": "2018-02-16T04:00:00.000Z",
+    "EventName": "Olympic Ice",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-16T00:00:00.000Z",
+    "End": "2018-02-16T04:00:00.000Z",
+    "EventName": "Figure Skating",
+    "EventDetails": "Men's Short Program",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-16T01:00:00.000Z",
+    "End": "2018-02-16T05:30:00.000Z",
+    "EventName": "Figure Skating",
+    "EventDetails": "Men's Short Program",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-16T01:00:00.000Z",
+    "End": "2018-02-16T05:30:00.000Z",
+    "EventName": "Women's Snowboard Cross",
+    "EventDetails": "Final",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-16T01:00:00.000Z",
+    "End": "2018-02-16T05:30:00.000Z",
+    "EventName": "Men's Skelton",
+    "EventDetails": "Final Runs",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-16T01:00:00.000Z",
+    "End": "2018-02-16T05:30:00.000Z",
+    "EventName": "Women's Freestyle Skiing",
+    "EventDetails": "Aerials",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-16T01:00:00.000Z",
+    "End": "2018-02-16T05:30:00.000Z",
+    "EventName": "Women's Cross Country",
+    "EventDetails": "10km Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "CNBC",
+    "Start": "2018-02-16T03:00:00.000Z",
+    "End": "2018-02-16T05:30:00.000Z",
+    "EventName": "Men's Hockey",
+    "EventDetails": "U.S.-Slovakia",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-16T04:00:00.000Z",
+    "End": "2018-02-16T07:40:00.000Z",
+    "EventName": "Men's Curling",
+    "EventDetails": "U.S.-Sweden",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-16T04:00:00.000Z",
+    "End": "2018-02-16T07:40:00.000Z",
+    "EventName": "Men's Cross Country",
+    "EventDetails": "15km Final",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-16T05:30:00.000Z",
+    "End": "2018-02-16T07:40:00.000Z",
+    "EventName": "Women's Curling",
+    "EventDetails": "U.S.-Russians",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-16T05:35:00.000Z",
+    "End": "2018-02-16T07:00:00.000Z",
+    "EventName": "Women's Freestyle Skiing",
+    "EventDetails": "Slopestyle Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-16T05:35:00.000Z",
+    "End": "2018-02-16T07:00:00.000Z",
+    "EventName": "Figure Skating",
+    "EventDetails": "Men's Postgame",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-16T07:00:00.000Z",
+    "End": "2018-02-16T10:00:00.000Z",
+    "EventName": "Primetime Encore",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-16T07:40:00.000Z",
+    "End": "2018-02-16T10:00:00.000Z",
+    "EventName": "Men's Hockey",
+    "EventDetails": "Slovenia-Russians",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "Olympic Channel",
+    "Start": "2018-02-16T10:00:00.000Z",
+    "End": "2018-02-16T12:00:00.000Z",
+    "EventName": "Medal Ceremonies",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-16T10:00:00.000Z",
+    "End": "2018-02-16T12:10:00.000Z",
+    "EventName": "Women's Curling",
+    "EventDetails": "Sweden-Russians",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "USA",
+    "Start": "2018-02-16T12:00:00.000Z",
+    "End": "2018-02-16T14:30:00.000Z",
+    "EventName": "Men's Hockey",
+    "EventDetails": "Finland-Norway",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-16T12:10:00.000Z",
+    "End": "2018-02-16T15:45:00.000Z",
+    "EventName": "Men's Hockey",
+    "EventDetails": "Sweden-Germany",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-16T12:10:00.000Z",
+    "End": "2018-02-16T15:45:00.000Z",
+    "EventName": "Women's Skeleton",
+    "EventDetails": "Competition",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-16T15:45:00.000Z",
+    "End": "2018-02-16T19:00:00.000Z",
+    "EventName": "Women's Speed Skating",
+    "EventDetails": "5000m Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-16T15:45:00.000Z",
+    "End": "2018-02-16T19:00:00.000Z",
+    "EventName": "Men's Ski Jumping",
+    "EventDetails": "Individual Large Hill",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-16T15:45:00.000Z",
+    "End": "2018-02-16T19:00:00.000Z",
+    "EventName": "Medal Ceremonies",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-16T19:00:00.000Z",
+    "End": "2018-02-16T22:00:00.000Z",
+    "EventName": "Women's Curling",
+    "EventDetails": "South Korea-Switzerland",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-16T20:00:00.000Z",
+    "End": "2018-02-16T22:00:00.000Z",
+    "EventName": "Women's Speed Skating",
+    "EventDetails": "5000m Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-16T20:00:00.000Z",
+    "End": "2018-02-16T22:00:00.000Z",
+    "EventName": "Men's Cross Country",
+    "EventDetails": "15km Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-16T20:00:00.000Z",
+    "End": "2018-02-16T22:00:00.000Z",
+    "EventName": "Men's Ski Jumping",
+    "EventDetails": "Individual Large Hill",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-16T22:00:00.000Z",
+    "End": "2018-02-17T00:00:00.000Z",
+    "EventName": "Hockey",
+    "EventDetails": "\"Game of the Day\"",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "CNBC",
+    "Start": "2018-02-16T22:00:00.000Z",
+    "End": "2018-02-17T01:00:00.000Z",
+    "EventName": "Men's Curling",
+    "EventDetails": "U.S.-Denmark",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-17T00:00:00.000Z",
+    "End": "2018-02-17T03:10:00.000Z",
+    "EventName": "Olympic Ice",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-17T00:00:00.000Z",
+    "End": "2018-02-17T03:10:00.000Z",
+    "EventName": "Figure Skating",
+    "EventDetails": "Men's Final",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-17T01:00:00.000Z",
+    "End": "2018-02-17T05:00:00.000Z",
+    "EventName": "Figure Skating",
+    "EventDetails": "Men's Final",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-17T01:00:00.000Z",
+    "End": "2018-02-17T05:00:00.000Z",
+    "EventName": "Women's Alpine Skiing",
+    "EventDetails": "Super G Final",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-17T01:00:00.000Z",
+    "End": "2018-02-17T05:00:00.000Z",
+    "EventName": "Women's Freestyle Skiing",
+    "EventDetails": "Aerials",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-17T01:00:00.000Z",
+    "End": "2018-02-17T05:00:00.000Z",
+    "EventName": "Women's Skeleton",
+    "EventDetails": "Competition",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "CNBC",
+    "Start": "2018-02-17T03:00:00.000Z",
+    "End": "2018-02-17T05:30:00.000Z",
+    "EventName": "Women's Hockey",
+    "EventDetails": "Quarterfinal",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-17T03:10:00.000Z",
+    "End": "2018-02-17T05:30:00.000Z",
+    "EventName": "Men's Hockey",
+    "EventDetails": "Canada-Czech Republic",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-17T05:30:00.000Z",
+    "End": "2018-02-17T07:40:00.000Z",
+    "EventName": "Men's Curling",
+    "EventDetails": "U.S.-Japan",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-17T06:30:00.000Z",
+    "End": "2018-02-17T09:30:00.000Z",
+    "EventName": "Primetime Encore",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "USA",
+    "Start": "2018-02-17T07:30:00.000Z",
+    "End": "2018-02-17T10:00:00.000Z",
+    "EventName": "Women's Hockey",
+    "EventDetails": "Quarterfinal",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-17T07:40:00.000Z",
+    "End": "2018-02-17T10:00:00.000Z",
+    "EventName": "Men's Hockey",
+    "EventDetails": "Switzerland-South Korea",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "Olympic Channel",
+    "Start": "2018-02-17T10:00:00.000Z",
+    "End": "2018-02-17T12:00:00.000Z",
+    "EventName": "Medal Ceremonies",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "USA",
+    "Start": "2018-02-17T10:00:00.000Z",
+    "End": "2018-02-17T12:10:00.000Z",
+    "EventName": "Men's Curling",
+    "EventDetails": "Switzerland-Norway",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-17T10:00:00.000Z",
+    "End": "2018-02-17T12:10:00.000Z",
+    "EventName": "Men's Curling",
+    "EventDetails": "Canada-Sweden",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "USA",
+    "Start": "2018-02-17T12:10:00.000Z",
+    "End": "2018-02-17T14:30:00.000Z",
+    "EventName": "Men's Hockey",
+    "EventDetails": "Slovakia-Slovenia",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-17T12:10:00.000Z",
+    "End": "2018-02-17T15:30:00.000Z",
+    "EventName": "Men's Hockey",
+    "EventDetails": "U.S.-Russians",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-17T12:10:00.000Z",
+    "End": "2018-02-17T15:30:00.000Z",
+    "EventName": "Men's Freestyle Skiing",
+    "EventDetails": "Aerials",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-17T15:30:00.000Z",
+    "End": "2018-02-17T18:30:00.000Z",
+    "EventName": "Women's Cross Country",
+    "EventDetails": "4x5km Relay Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-17T15:30:00.000Z",
+    "End": "2018-02-17T18:30:00.000Z",
+    "EventName": "Women's Biathlon",
+    "EventDetails": "12.5km Mass Start Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-17T15:30:00.000Z",
+    "End": "2018-02-17T18:30:00.000Z",
+    "EventName": "Short Track",
+    "EventDetails": "Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-17T18:30:00.000Z",
+    "End": "2018-02-17T22:30:00.000Z",
+    "EventName": "Women's Skeleton",
+    "EventDetails": "Final Runs",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-17T18:30:00.000Z",
+    "End": "2018-02-17T22:30:00.000Z",
+    "EventName": "Men's Ski Jumping",
+    "EventDetails": "Individual Large Hill Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-17T18:30:00.000Z",
+    "End": "2018-02-17T22:30:00.000Z",
+    "EventName": "Hockey",
+    "EventDetails": "\"Game of the Day\"",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-17T20:00:00.000Z",
+    "End": "2018-02-17T23:00:00.000Z",
+    "EventName": "Men's Freestyle Skiing",
+    "EventDetails": "Aerials",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-17T20:00:00.000Z",
+    "End": "2018-02-17T23:00:00.000Z",
+    "EventName": "Women's Biathlon",
+    "EventDetails": "12.5km Mass Start Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-17T20:00:00.000Z",
+    "End": "2018-02-17T23:00:00.000Z",
+    "EventName": "Women's Cross Country",
+    "EventDetails": "4x5km Relay Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "CNBC",
+    "Start": "2018-02-17T22:00:00.000Z",
+    "End": "2018-02-18T01:00:00.000Z",
+    "EventName": "Women's Curling",
+    "EventDetails": "U.S.-Canada",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-18T00:00:00.000Z",
+    "End": "2018-02-18T03:10:00.000Z",
+    "EventName": "Olympic Ice",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-18T00:00:00.000Z",
+    "End": "2018-02-18T03:10:00.000Z",
+    "EventName": "Men's Freestyle Skiing",
+    "EventDetails": "Slopestyle",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-18T01:00:00.000Z",
+    "End": "2018-02-18T04:00:00.000Z",
+    "EventName": "Men's Alpine Skiing",
+    "EventDetails": "Giant Slalom, First Run",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-18T01:00:00.000Z",
+    "End": "2018-02-18T04:00:00.000Z",
+    "EventName": "Short Track",
+    "EventDetails": "Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-18T01:00:00.000Z",
+    "End": "2018-02-18T04:00:00.000Z",
+    "EventName": "Women's Skeleton",
+    "EventDetails": "Final Runs",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-18T01:00:00.000Z",
+    "End": "2018-02-18T04:00:00.000Z",
+    "EventName": "Men's Ski Jumping",
+    "EventDetails": "Individual Large Hill Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-18T03:10:00.000Z",
+    "End": "2018-02-18T05:30:00.000Z",
+    "EventName": "Men's Hockey",
+    "EventDetails": "Germany-Norway",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-18T04:30:00.000Z",
+    "End": "2018-02-18T18:30:00.000Z",
+    "EventName": "Men's Alpine Skiing",
+    "EventDetails": "Giant Slalom, Final Run",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-18T04:30:00.000Z",
+    "End": "2018-02-18T18:30:00.000Z",
+    "EventName": "Men's Freestyle Skiing",
+    "EventDetails": "Slopestyle Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-18T05:35:00.000Z",
+    "End": "2018-02-18T07:00:00.000Z",
+    "EventName": "Women's Snowboarding",
+    "EventDetails": "Big Air",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-18T07:00:00.000Z",
+    "End": "2018-02-18T09:30:00.000Z",
+    "EventName": "Primetime Encore",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-18T07:40:00.000Z",
+    "End": "2018-02-18T10:00:00.000Z",
+    "EventName": "Men's Hockey",
+    "EventDetails": "Czech Republic-Switzerland",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "Olympic Channel",
+    "Start": "2018-02-18T10:00:00.000Z",
+    "End": "2018-02-18T12:00:00.000Z",
+    "EventName": "Medal Ceremonies",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-18T10:00:00.000Z",
+    "End": "2018-02-18T12:10:00.000Z",
+    "EventName": "Women's Curling",
+    "EventDetails": "Canada-Switzerland",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "USA",
+    "Start": "2018-02-18T12:00:00.000Z",
+    "End": "2018-02-18T14:30:00.000Z",
+    "EventName": "Men's Hockey",
+    "EventDetails": "Canada-South Korea",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-18T12:10:00.000Z",
+    "End": "2018-02-18T15:15:00.000Z",
+    "EventName": "Men's Hockey",
+    "EventDetails": "Sweden-Finland",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-18T12:10:00.000Z",
+    "End": "2018-02-18T15:15:00.000Z",
+    "EventName": "Two-Man Bobsled",
+    "EventDetails": "Competition",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-18T15:15:00.000Z",
+    "End": "2018-02-18T18:00:00.000Z",
+    "EventName": "Men's Freestyle Skiing",
+    "EventDetails": "Aerials Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-18T15:15:00.000Z",
+    "End": "2018-02-18T18:00:00.000Z",
+    "EventName": "Women's Speedskating",
+    "EventDetails": "500m Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-18T15:15:00.000Z",
+    "End": "2018-02-18T18:00:00.000Z",
+    "EventName": "Men's Speedskating",
+    "EventDetails": "Men's Team Pursuit",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-18T15:15:00.000Z",
+    "End": "2018-02-18T18:00:00.000Z",
+    "EventName": "Men's Biathlon",
+    "EventDetails": "15km Mass Start Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-18T18:00:00.000Z",
+    "End": "2018-02-18T22:00:00.000Z",
+    "EventName": "Men's Cross Country",
+    "EventDetails": "4×10 Relay Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-18T18:00:00.000Z",
+    "End": "2018-02-18T22:00:00.000Z",
+    "EventName": "Hockey",
+    "EventDetails": "\"Game of the Day\"",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-18T20:00:00.000Z",
+    "End": "2018-02-18T23:00:00.000Z",
+    "EventName": "Men's Freestyle Skiing",
+    "EventDetails": "Aerials Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-18T20:00:00.000Z",
+    "End": "2018-02-18T23:00:00.000Z",
+    "EventName": "Men's Speedskating",
+    "EventDetails": "Team Pursuit",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-18T20:00:00.000Z",
+    "End": "2018-02-18T23:00:00.000Z",
+    "EventName": "Men's Biathlon",
+    "EventDetails": "15km Mass Start Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "CNBC",
+    "Start": "2018-02-18T21:00:00.000Z",
+    "End": "2018-02-19T00:00:00.000Z",
+    "EventName": "Men's Curling",
+    "EventDetails": "U.S.-Norway",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-19T00:00:00.000Z",
+    "End": "2018-02-19T03:15:00.000Z",
+    "EventName": "Olympic Ice",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-19T00:00:00.000Z",
+    "End": "2018-02-19T03:15:00.000Z",
+    "EventName": "Figure Skating",
+    "EventDetails": "Ice Dancing Short Dance",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-19T00:00:00.000Z",
+    "End": "2018-02-19T05:00:00.000Z",
+    "EventName": "Figure Skating",
+    "EventDetails": "Ice Dancing Short Dance",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-19T00:00:00.000Z",
+    "End": "2018-02-19T05:00:00.000Z",
+    "EventName": "Women's Freestyle Skiing",
+    "EventDetails": "Halfpipe",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-19T00:00:00.000Z",
+    "End": "2018-02-19T05:00:00.000Z",
+    "EventName": "Women's Speedskating",
+    "EventDetails": "500m Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-19T00:00:00.000Z",
+    "End": "2018-02-19T05:00:00.000Z",
+    "EventName": "Two-Man Bobsled",
+    "EventDetails": "Competition",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-19T00:00:00.000Z",
+    "End": "2018-02-19T05:00:00.000Z",
+    "EventName": "Men's Cross Country",
+    "EventDetails": "4x10km Relay Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-19T03:15:00.000Z",
+    "End": "2018-02-19T06:30:00.000Z",
+    "EventName": "Men's Freestyle Skiing",
+    "EventDetails": "Aerials Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-19T03:15:00.000Z",
+    "End": "2018-02-19T06:30:00.000Z",
+    "EventName": "Women's Hockey",
+    "EventDetails": "Semifinal",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-19T05:05:00.000Z",
+    "End": "2018-02-19T06:00:00.000Z",
+    "EventName": "Men's Freestyle Skiing",
+    "EventDetails": "Halfpipe",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-19T05:30:00.000Z",
+    "End": "2018-02-19T07:40:00.000Z",
+    "EventName": "Men's Curling",
+    "EventDetails": "Canada-Japan",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-19T06:00:00.000Z",
+    "End": "2018-02-19T09:30:00.000Z",
+    "EventName": "Primetime Encore",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-19T06:30:00.000Z",
+    "End": "2018-02-19T09:30:00.000Z",
+    "EventName": "Women's Curling",
+    "EventDetails": "U.S.-Denmark",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-19T09:30:00.000Z",
+    "End": "2018-02-19T12:10:00.000Z",
+    "EventName": "Men's Curling",
+    "EventDetails": "U.S.-Canada",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "Olympic Channel",
+    "Start": "2018-02-19T10:00:00.000Z",
+    "End": "2018-02-19T12:00:00.000Z",
+    "EventName": "Medal Ceremonies",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-19T12:10:00.000Z",
+    "End": "2018-02-19T16:00:00.000Z",
+    "EventName": "Women's Hockey",
+    "EventDetails": "Semifinal",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-19T12:10:00.000Z",
+    "End": "2018-02-19T16:00:00.000Z",
+    "EventName": "Men's Ski Jumping",
+    "EventDetails": "Team Large Hill Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-19T16:00:00.000Z",
+    "End": "2018-02-19T17:30:00.000Z",
+    "EventName": "Two-Man Bobsled",
+    "EventDetails": "Final Runs",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-19T16:00:00.000Z",
+    "End": "2018-02-19T17:30:00.000Z",
+    "EventName": "Men's Speedskating",
+    "EventDetails": "500m Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-19T16:00:00.000Z",
+    "End": "2018-02-19T17:30:00.000Z",
+    "EventName": "Women's Speedskating",
+    "EventDetails": "Team Pursuit",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-19T17:30:00.000Z",
+    "End": "2018-02-19T20:30:00.000Z",
+    "EventName": "Men's Curling",
+    "EventDetails": "U.S.-Canada",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-19T20:00:00.000Z",
+    "End": "2018-02-19T22:00:00.000Z",
+    "EventName": "Men's Ski Jumping",
+    "EventDetails": "Team Large Hill Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-19T20:00:00.000Z",
+    "End": "2018-02-19T22:00:00.000Z",
+    "EventName": "Men's Speedskating",
+    "EventDetails": "500m Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-19T20:00:00.000Z",
+    "End": "2018-02-19T22:00:00.000Z",
+    "EventName": "Women's Speedskating",
+    "EventDetails": "Team Pursuit",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-19T20:30:00.000Z",
+    "End": "2018-02-20T00:00:00.000Z",
+    "EventName": "Hockey",
+    "EventDetails": "\"Game of the Day\" (2x)",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "CNBC",
+    "Start": "2018-02-19T22:00:00.000Z",
+    "End": "2018-02-20T01:00:00.000Z",
+    "EventName": "Women's Curling",
+    "EventDetails": "U.S.-China",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-20T00:00:00.000Z",
+    "End": "2018-02-20T03:10:00.000Z",
+    "EventName": "Olympic Ice",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-20T00:00:00.000Z",
+    "End": "2018-02-20T03:10:00.000Z",
+    "EventName": "Figure Skating",
+    "EventDetails": "Ice Dancing Short Dance",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-20T00:00:00.000Z",
+    "End": "2018-02-20T03:10:00.000Z",
+    "EventName": "Women's Alpine Skiing",
+    "EventDetails": "Downhill Training",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-20T01:00:00.000Z",
+    "End": "2018-02-20T04:30:00.000Z",
+    "EventName": "Figure Skating",
+    "EventDetails": "Ice Dancing Final",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-20T01:00:00.000Z",
+    "End": "2018-02-20T04:30:00.000Z",
+    "EventName": "Women's Freestyle Skiing",
+    "EventDetails": "Halfpipe Final",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-20T01:00:00.000Z",
+    "End": "2018-02-20T04:30:00.000Z",
+    "EventName": "Two-Man Bobsled",
+    "EventDetails": "Final Runs",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-20T03:10:00.000Z",
+    "End": "2018-02-20T05:30:00.000Z",
+    "EventName": "Men's Hockey",
+    "EventDetails": "Elimination Round",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-20T05:00:00.000Z",
+    "End": "2018-02-20T22:00:00.000Z",
+    "EventName": "Men's Nordic Combined",
+    "EventDetails": "Ind. Large Hill/10km Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-20T05:00:00.000Z",
+    "End": "2018-02-20T22:00:00.000Z",
+    "EventName": "Short Track",
+    "EventDetails": "Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-20T05:00:00.000Z",
+    "End": "2018-02-20T22:00:00.000Z",
+    "EventName": "Women's Curling",
+    "EventDetails": "U.S.-South Korea",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-20T06:05:00.000Z",
+    "End": "2018-02-20T07:00:00.000Z",
+    "EventName": "Men's Freestyle Skiing",
+    "EventDetails": "Ski Cross Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-20T06:05:00.000Z",
+    "End": "2018-02-20T07:00:00.000Z",
+    "EventName": "Short Track",
+    "EventDetails": "Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-20T07:00:00.000Z",
+    "End": "2018-02-20T09:30:00.000Z",
+    "EventName": "Primetime Encore",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-20T07:40:00.000Z",
+    "End": "2018-02-20T10:00:00.000Z",
+    "EventName": "Men's Hockey",
+    "EventDetails": "Elimination Round",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "Olympic Channel",
+    "Start": "2018-02-20T10:00:00.000Z",
+    "End": "2018-02-20T12:00:00.000Z",
+    "EventName": "Medal Ceremonies",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-20T10:00:00.000Z",
+    "End": "2018-02-20T12:10:00.000Z",
+    "EventName": "Women's Curling",
+    "EventDetails": "U.S.-South Korea",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "USA",
+    "Start": "2018-02-20T12:00:00.000Z",
+    "End": "2018-02-20T14:30:00.000Z",
+    "EventName": "Men's Hockey",
+    "EventDetails": "Elimination Round",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-20T12:10:00.000Z",
+    "End": "2018-02-20T14:30:00.000Z",
+    "EventName": "Men's Hockey",
+    "EventDetails": "Elimination Round",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-20T14:30:00.000Z",
+    "End": "2018-02-21T05:00:00.000Z",
+    "EventName": "Men's Nordic Combined",
+    "EventDetails": "Ind. Large Hill/10km Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-20T14:30:00.000Z",
+    "End": "2018-02-21T05:00:00.000Z",
+    "EventName": "Biathlon",
+    "EventDetails": "Mixed Relay Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-20T20:00:00.000Z",
+    "End": "2018-02-20T22:00:00.000Z",
+    "EventName": "Biathlon",
+    "EventDetails": "Mixed Relay Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-20T20:00:00.000Z",
+    "End": "2018-02-20T22:00:00.000Z",
+    "EventName": "Men's Nordic Combined",
+    "EventDetails": "Ind. Large Hill/10km Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-20T22:00:00.000Z",
+    "End": "2018-02-21T00:00:00.000Z",
+    "EventName": "Hockey",
+    "EventDetails": "\"Game of the Day\"",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "CNBC",
+    "Start": "2018-02-20T22:00:00.000Z",
+    "End": "2018-02-21T01:00:00.000Z",
+    "EventName": "Men's Curling",
+    "EventDetails": "U.S.-Switzerland",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-21T00:00:00.000Z",
+    "End": "2018-02-21T03:45:00.000Z",
+    "EventName": "Olympic Ice",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-21T00:00:00.000Z",
+    "End": "2018-02-21T03:45:00.000Z",
+    "EventName": "Figure Skating",
+    "EventDetails": "Women's Short Program",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-21T01:00:00.000Z",
+    "End": "2018-02-21T05:30:00.000Z",
+    "EventName": "Women's Alpine Skiing",
+    "EventDetails": "Downhill Final",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-21T01:00:00.000Z",
+    "End": "2018-02-21T05:30:00.000Z",
+    "EventName": "Figure Skating",
+    "EventDetails": "Women's Short Program",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-21T01:00:00.000Z",
+    "End": "2018-02-21T05:30:00.000Z",
+    "EventName": "Women's Bobsled",
+    "EventDetails": "Competition",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-21T01:00:00.000Z",
+    "End": "2018-02-21T05:30:00.000Z",
+    "EventName": "Men's Snowboarding",
+    "EventDetails": "Big Air",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "CNBC",
+    "Start": "2018-02-21T03:00:00.000Z",
+    "End": "2018-02-21T05:30:00.000Z",
+    "EventName": "Men's Hockey",
+    "EventDetails": "Quarterfinal",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-21T03:45:00.000Z",
+    "End": "2018-02-21T07:40:00.000Z",
+    "EventName": "Women's Curling",
+    "EventDetails": "Canada-Great Britain",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-21T03:45:00.000Z",
+    "End": "2018-02-21T07:40:00.000Z",
+    "EventName": "Women's Curling",
+    "EventDetails": "South Korea-Russians",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-21T05:30:00.000Z",
+    "End": "2018-02-21T08:30:00.000Z",
+    "EventName": "Primetime Encore",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "USA",
+    "Start": "2018-02-21T07:30:00.000Z",
+    "End": "2018-02-21T10:00:00.000Z",
+    "EventName": "Women's Hockey",
+    "EventDetails": "Third-Place Game",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-21T07:40:00.000Z",
+    "End": "2018-02-21T10:00:00.000Z",
+    "EventName": "Men's Hockey",
+    "EventDetails": "Quarterfinal",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "Olympic Channel",
+    "Start": "2018-02-21T10:00:00.000Z",
+    "End": "2018-02-21T12:00:00.000Z",
+    "EventName": "Medal Ceremonies",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "USA",
+    "Start": "2018-02-21T10:00:00.000Z",
+    "End": "2018-02-21T12:10:00.000Z",
+    "EventName": "Men's Curling",
+    "EventDetails": "Sweden-Norway",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-21T10:00:00.000Z",
+    "End": "2018-02-21T12:10:00.000Z",
+    "EventName": "Men's Curling",
+    "EventDetails": "U.S.-Great Britain",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "USA",
+    "Start": "2018-02-21T12:10:00.000Z",
+    "End": "2018-02-21T14:30:00.000Z",
+    "EventName": "Men's Hockey",
+    "EventDetails": "Quarterfinal",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-21T12:10:00.000Z",
+    "End": "2018-02-21T15:45:00.000Z",
+    "EventName": "Men's Hockey",
+    "EventDetails": "Quarterfinal",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-21T12:10:00.000Z",
+    "End": "2018-02-21T15:45:00.000Z",
+    "EventName": "Women's Bobsled",
+    "EventDetails": "Final Runs",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-21T15:45:00.000Z",
+    "End": "2018-02-21T18:30:00.000Z",
+    "EventName": "Men's Speedskating",
+    "EventDetails": "Team Pursuit Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-21T15:45:00.000Z",
+    "End": "2018-02-21T18:30:00.000Z",
+    "EventName": "Women's Speedskating",
+    "EventDetails": "Team Pursuit Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-21T15:45:00.000Z",
+    "End": "2018-02-21T18:30:00.000Z",
+    "EventName": "Men's Cross Country",
+    "EventDetails": "Team Sprint Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-21T15:45:00.000Z",
+    "End": "2018-02-21T18:30:00.000Z",
+    "EventName": "Women's Cross Country",
+    "EventDetails": "Team Sprint Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-21T18:30:00.000Z",
+    "End": "2018-02-21T22:00:00.000Z",
+    "EventName": "Men's Curling",
+    "EventDetails": "U.S.-Great Britain",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-21T18:30:00.000Z",
+    "End": "2018-02-21T22:00:00.000Z",
+    "EventName": "Medal Ceremonies",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-21T20:00:00.000Z",
+    "End": "2018-02-21T22:00:00.000Z",
+    "EventName": "Speedskating",
+    "EventDetails": "Team Pursuit Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-21T20:00:00.000Z",
+    "End": "2018-02-21T22:00:00.000Z",
+    "EventName": "Men's Cross Country",
+    "EventDetails": "Team Sprint Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-21T22:00:00.000Z",
+    "End": "2018-02-22T00:00:00.000Z",
+    "EventName": "Hockey",
+    "EventDetails": "\"Game of the Day\"",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "CNBC",
+    "Start": "2018-02-21T22:00:00.000Z",
+    "End": "2018-02-22T01:00:00.000Z",
+    "EventName": "Women's Curling",
+    "EventDetails": "U.S.-Sweden",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-22T00:00:00.000Z",
+    "End": "2018-02-22T03:45:00.000Z",
+    "EventName": "Olympic Ice",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-22T00:00:00.000Z",
+    "End": "2018-02-22T03:45:00.000Z",
+    "EventName": "Women's Curling",
+    "EventDetails": "Canada-Russians",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-22T01:00:00.000Z",
+    "End": "2018-02-22T04:00:00.000Z",
+    "EventName": "Men's Alpine Skiing",
+    "EventDetails": "Slalom, First Run",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-22T01:00:00.000Z",
+    "End": "2018-02-22T04:00:00.000Z",
+    "EventName": "Men's Freestyle Skiing",
+    "EventDetails": "Halfpipe",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-22T01:00:00.000Z",
+    "End": "2018-02-22T04:00:00.000Z",
+    "EventName": "Women's Bobsled",
+    "EventDetails": "Final Runs",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-22T01:00:00.000Z",
+    "End": "2018-02-22T04:00:00.000Z",
+    "EventName": "Women's Cross Country",
+    "EventDetails": "Team Sprint Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-22T03:45:00.000Z",
+    "End": "2018-02-22T07:00:00.000Z",
+    "EventName": "Women's Hockey",
+    "EventDetails": "Final",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-22T04:35:00.000Z",
+    "End": "2018-02-22T05:30:00.000Z",
+    "EventName": "Men's Alpine Skiing",
+    "EventDetails": "Slalom, Final Run",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-22T05:35:00.000Z",
+    "End": "2018-02-22T07:00:00.000Z",
+    "EventName": "Women's Alpine Skiing",
+    "EventDetails": "Combined, Slalom Final",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-22T05:35:00.000Z",
+    "End": "2018-02-22T07:00:00.000Z",
+    "EventName": "Women's Freestyle Skiing",
+    "EventDetails": "Ski Cross Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-22T07:00:00.000Z",
+    "End": "2018-02-22T10:20:00.000Z",
+    "EventName": "Men's Snowboarding",
+    "EventDetails": "Parallel Giant Slalom",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-22T07:00:00.000Z",
+    "End": "2018-02-22T10:20:00.000Z",
+    "EventName": "Women's Snowboarding",
+    "EventDetails": "Parallel Giant Slalom",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-22T07:00:00.000Z",
+    "End": "2018-02-22T10:20:00.000Z",
+    "EventName": "Men's Nordic Combined",
+    "EventDetails": "Team Large Hill/4x5km Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-22T07:00:00.000Z",
+    "End": "2018-02-22T10:20:00.000Z",
+    "EventName": "Men's Curling",
+    "EventDetails": "Tiebreaker",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-22T07:00:00.000Z",
+    "End": "2018-02-22T10:20:00.000Z",
+    "EventName": "Women's Curling",
+    "EventDetails": "Tiebreaker",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-22T07:00:00.000Z",
+    "End": "2018-02-22T09:30:00.000Z",
+    "EventName": "Primetime Encore",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "Olympic Channel",
+    "Start": "2018-02-22T10:00:00.000Z",
+    "End": "2018-02-22T12:00:00.000Z",
+    "EventName": "Medal Ceremonies",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-22T10:20:00.000Z",
+    "End": "2018-02-22T12:45:00.000Z",
+    "EventName": "Women's Biathlon",
+    "EventDetails": "4x6km Relay Final",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-22T10:20:00.000Z",
+    "End": "2018-02-22T12:45:00.000Z",
+    "EventName": "Men's Nordic Combined",
+    "EventDetails": "Team Large Hill/4x5km Final",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-22T12:45:00.000Z",
+    "End": "2018-02-22T15:45:00.000Z",
+    "EventName": "Short Track",
+    "EventDetails": "Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-22T12:45:00.000Z",
+    "End": "2018-02-22T15:45:00.000Z",
+    "EventName": "Medal Ceremonies",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-22T15:45:00.000Z",
+    "End": "2018-02-22T18:45:00.000Z",
+    "EventName": "Men's Curling",
+    "EventDetails": "Tiebreaker",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-22T15:45:00.000Z",
+    "End": "2018-02-22T18:45:00.000Z",
+    "EventName": "Women's Curling",
+    "EventDetails": "Tiebreaker",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-22T18:45:00.000Z",
+    "End": "2018-02-22T21:45:00.000Z",
+    "EventName": "Men's Curling",
+    "EventDetails": "Semifinal",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-22T20:00:00.000Z",
+    "End": "2018-02-22T22:00:00.000Z",
+    "EventName": "Women's Biathlon",
+    "EventDetails": "4x6km Relay Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-22T20:00:00.000Z",
+    "End": "2018-02-22T22:00:00.000Z",
+    "EventName": "Men's Nordic Combined",
+    "EventDetails": "Team Large Hill/4x5km Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-22T21:45:00.000Z",
+    "End": "2018-02-23T00:00:00.000Z",
+    "EventName": "Hockey",
+    "EventDetails": "\"Game of the Day\"",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "CNBC",
+    "Start": "2018-02-22T22:00:00.000Z",
+    "End": "2018-02-23T01:00:00.000Z",
+    "EventName": "Men's Curling",
+    "EventDetails": "Semifinal",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-23T00:00:00.000Z",
+    "End": "2018-02-23T03:00:00.000Z",
+    "EventName": "Olympic Ice",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-23T00:00:00.000Z",
+    "End": "2018-02-23T03:00:00.000Z",
+    "EventName": "Figure Skating",
+    "EventDetails": "Women's Free Program",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-23T01:00:00.000Z",
+    "End": "2018-02-23T05:00:00.000Z",
+    "EventName": "Figure Skating",
+    "EventDetails": "Women's Final",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-23T01:00:00.000Z",
+    "End": "2018-02-23T05:00:00.000Z",
+    "EventName": "Women's Alpine Skiing",
+    "EventDetails": "Combined, Downhill Run",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-23T01:00:00.000Z",
+    "End": "2018-02-23T05:00:00.000Z",
+    "EventName": "Women's Snowboarding",
+    "EventDetails": "Big Air Final",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-23T01:00:00.000Z",
+    "End": "2018-02-23T05:00:00.000Z",
+    "EventName": "Short Track",
+    "EventDetails": "Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-23T03:00:00.000Z",
+    "End": "2018-02-23T07:00:00.000Z",
+    "EventName": "Men's Curling",
+    "EventDetails": "Semifinal encore",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-23T03:00:00.000Z",
+    "End": "2018-02-23T07:00:00.000Z",
+    "EventName": "Short Track",
+    "EventDetails": "Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-23T05:00:00.000Z",
+    "End": "2018-02-23T08:00:00.000Z",
+    "EventName": "Men's Cross Country",
+    "EventDetails": "50km Final",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-23T06:00:00.000Z",
+    "End": "2018-02-23T09:00:00.000Z",
+    "EventName": "Primetime Encore",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-23T07:00:00.000Z",
+    "End": "2018-02-23T10:00:00.000Z",
+    "EventName": "Men's Hockey",
+    "EventDetails": "Semifinal",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-23T10:00:00.000Z",
+    "End": "2018-02-23T11:30:00.000Z",
+    "EventName": "Men's Speedskating",
+    "EventDetails": "1000m Final",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "Olympic Channel",
+    "Start": "2018-02-23T10:00:00.000Z",
+    "End": "2018-02-23T12:00:00.000Z",
+    "EventName": "Medal Ceremonies",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-23T11:30:00.000Z",
+    "End": "2018-02-23T14:30:00.000Z",
+    "EventName": "Men's Hockey",
+    "EventDetails": "Semifinal",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-23T14:30:00.000Z",
+    "End": "2018-02-23T17:30:00.000Z",
+    "EventName": "Men's Curling",
+    "EventDetails": "Third-Place Match",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-23T17:30:00.000Z",
+    "End": "2018-02-23T21:00:00.000Z",
+    "EventName": "Women's Curling",
+    "EventDetails": "Semifinal",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-23T17:30:00.000Z",
+    "End": "2018-02-23T21:00:00.000Z",
+    "EventName": "Medal Ceremonies",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-23T20:00:00.000Z",
+    "End": "2018-02-23T22:00:00.000Z",
+    "EventName": "Men's Biathlon",
+    "EventDetails": "4×7.5km Relay Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-23T20:00:00.000Z",
+    "End": "2018-02-23T22:00:00.000Z",
+    "EventName": "Figure Skating",
+    "EventDetails": "Women's Recap",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-23T21:00:00.000Z",
+    "End": "2018-02-24T01:00:00.000Z",
+    "EventName": "Hockey",
+    "EventDetails": "\"Game of the Day\" (2x)",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-23T21:00:00.000Z",
+    "End": "2018-02-24T01:00:00.000Z",
+    "EventName": "Olympic Ice",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "CNBC",
+    "Start": "2018-02-23T22:00:00.000Z",
+    "End": "2018-02-24T01:00:00.000Z",
+    "EventName": "Women's Curling",
+    "EventDetails": "Semifinal",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-24T01:00:00.000Z",
+    "End": "2018-02-24T04:00:00.000Z",
+    "EventName": "Alpine Skiing",
+    "EventDetails": "Team Final",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-24T01:00:00.000Z",
+    "End": "2018-02-24T04:00:00.000Z",
+    "EventName": "Men's Snowboarding",
+    "EventDetails": "Big Air Final",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-24T01:00:00.000Z",
+    "End": "2018-02-24T04:00:00.000Z",
+    "EventName": "Four-Man Bobsled",
+    "EventDetails": "Competition",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-24T01:00:00.000Z",
+    "End": "2018-02-24T04:00:00.000Z",
+    "EventName": "Men's Speedskating",
+    "EventDetails": "1000m Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-24T01:00:00.000Z",
+    "End": "2018-02-24T05:00:00.000Z",
+    "EventName": "Men's Biathlon",
+    "EventDetails": "4×7.5km Relay Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-24T01:00:00.000Z",
+    "End": "2018-02-24T05:00:00.000Z",
+    "EventName": "Women's Curling",
+    "EventDetails": "Semifinal encore",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-24T04:35:00.000Z",
+    "End": "2018-02-24T06:00:00.000Z",
+    "EventName": "Men's Snowboarding",
+    "EventDetails": "Parallel Giant Slalom Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-24T04:35:00.000Z",
+    "End": "2018-02-24T06:00:00.000Z",
+    "EventName": "Women's Snowboarding",
+    "EventDetails": "Parallel Giant Slalom Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-24T05:30:00.000Z",
+    "End": "2018-02-24T08:30:00.000Z",
+    "EventName": "Primetime Encore",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-24T08:00:00.000Z",
+    "End": "2018-02-24T11:30:00.000Z",
+    "EventName": "Men's Curling",
+    "EventDetails": "Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-24T11:30:00.000Z",
+    "End": "2018-02-24T14:30:00.000Z",
+    "EventName": "Men's Hockey",
+    "EventDetails": "Third-Place Game",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-24T14:30:00.000Z",
+    "End": "2018-02-24T16:00:00.000Z",
+    "EventName": "Men's Speedskating",
+    "EventDetails": "Mass Start Finals",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-24T14:30:00.000Z",
+    "End": "2018-02-24T16:00:00.000Z",
+    "EventName": "Women's Speedskating",
+    "EventDetails": "Mass Start Finals",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-24T16:00:00.000Z",
+    "End": "2018-02-24T19:00:00.000Z",
+    "EventName": "Women's Curling",
+    "EventDetails": "Third-Place Match",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-24T19:00:00.000Z",
+    "End": "2018-02-24T21:00:00.000Z",
+    "EventName": "Men's Hockey",
+    "EventDetails": "\"Game of the Day\"",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-24T20:00:00.000Z",
+    "End": "2018-02-24T23:00:00.000Z",
+    "EventName": "Men's Speedskating",
+    "EventDetails": "Mass Start Finals",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-24T20:00:00.000Z",
+    "End": "2018-02-24T23:00:00.000Z",
+    "EventName": "Women's Speedskating",
+    "EventDetails": "Mass Start Finals",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-24T21:00:00.000Z",
+    "End": "2018-02-25T00:00:00.000Z",
+    "EventName": "Men's Curling",
+    "EventDetails": "Final (encore)",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-24T21:00:00.000Z",
+    "End": "2018-02-25T00:00:00.000Z",
+    "EventName": "Olympic Ice",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "Olympic Channel",
+    "Start": "2018-02-24T22:00:00.000Z",
+    "End": "2018-02-25T12:00:00.000Z",
+    "EventName": "Medal Ceremonies",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-25T00:00:00.000Z",
+    "End": "2018-02-25T03:30:00.000Z",
+    "EventName": "Women's Curling",
+    "EventDetails": "Final",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-25T01:00:00.000Z",
+    "End": "2018-02-25T04:00:00.000Z",
+    "EventName": "Figure Skating",
+    "EventDetails": "Gala",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-25T01:00:00.000Z",
+    "End": "2018-02-25T04:00:00.000Z",
+    "EventName": "Four-Man Bobsled",
+    "EventDetails": "Final Runs",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-25T03:30:00.000Z",
+    "End": "2018-02-25T07:00:00.000Z",
+    "EventName": "Men's Hockey",
+    "EventDetails": "Final",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-25T04:30:00.000Z",
+    "End": "2018-02-25T05:30:00.000Z",
+    "EventName": "Primetime Plus",
+    "LiveOrTape": "TBD"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-25T07:00:00.000Z",
+    "End": "2018-02-25T09:00:00.000Z",
+    "EventName": "Women's Cross Country",
+    "EventDetails": "30km Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-25T09:00:00.000Z",
+    "End": "2018-02-25T11:00:00.000Z",
+    "EventName": "Figure Skating",
+    "EventDetails": "Gala (encore)",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBCSN",
+    "Start": "2018-02-25T11:00:00.000Z",
+    "End": "2018-02-25T15:00:00.000Z",
+    "EventName": "Men's Hockey",
+    "EventDetails": "Final (encore)",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-25T20:00:00.000Z",
+    "End": "2018-02-25T23:00:00.000Z",
+    "EventName": "Women's Cross Country",
+    "EventDetails": "30km Final",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-26T00:00:00.000Z",
+    "End": "2018-02-26T01:00:00.000Z",
+    "EventName": "Olympic Gold",
+    "LiveOrTape": "LIVE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-26T01:00:00.000Z",
+    "End": "2018-02-26T03:30:00.000Z",
+    "EventName": "Closing Ceremony",
+    "LiveOrTape": "TAPE"
+  },
+  {
+    "Network": "NBC",
+    "Start": "2018-02-26T04:35:00.000Z",
+    "End": "2018-02-26T08:00:00.000Z",
+    "EventName": "Primetime Encore",
+    "LiveOrTape": "TAPE"
+  }
+]
