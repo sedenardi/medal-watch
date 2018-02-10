@@ -70,8 +70,7 @@ const createTweet = (event) => {
   str += ` (${event.Live ? 'LIVE' : 'TAPE'})`;
   return str;
 };
-
-const run = () => {
+module.exports = () => {
   return readFileAsync('schedule-2018.json').then((res) => {
     const schedule = JSON.parse(res.toString());
     const events = getNextEvents(schedule);
@@ -83,5 +82,3 @@ const run = () => {
     return Promise.all(actions);
   });
 };
-
-run().catch(console.log);
