@@ -12,7 +12,7 @@ const readFileAsync = (fileName) => {
 };
 
 const config = require('./config');
-const client = new Twitter(config);
+const client = new Twitter(config.twitter);
 
 const retryablePost = function(statusObj, cb) {
   client.post('statuses/update', statusObj, (error, tweet) => {
