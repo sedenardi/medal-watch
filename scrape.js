@@ -153,4 +153,12 @@ const scrape = (year) => {
   });
 };
 
+module.exports = function() {
+  const year = 2018;
+  return get(urls[year]).then((res) => {
+    const events = parseTable(res.body, year);
+    return Promise.resolve(events);
+  });
+};
+
 scrape(2018);

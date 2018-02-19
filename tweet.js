@@ -1,15 +1,7 @@
 const Twitter = require('twitter');
 const _ = require('lodash');
 const moment = require('moment-timezone');
-const fs = require('fs');
-const readFileAsync = (fileName) => {
-  return new Promise((resolve, reject) => {
-    fs.readFile(fileName, (err, res) => {
-      if (err) { return reject(err); }
-      return resolve(res);
-    });
-  });
-};
+const scrape = require('./scrape');
 
 const config = require('./config');
 const client = new Twitter(config.twitter);
@@ -71,8 +63,7 @@ const createTweet = (event) => {
   return str;
 };
 module.exports = () => {
-  return readFileAsync('schedule-2018.json').then((res) => {
-    const schedule = JSON.parse(res.toString());
+  return scrape().then((schedule) => {
     const events = getNextEvents(schedule);
     console.log(`Creating ${events.length} tweets`);
     const actions = events.map((event) => {
