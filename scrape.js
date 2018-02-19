@@ -3,10 +3,24 @@ const cheerio = require('cheerio');
 const _ = require('lodash');
 const moment = require('moment-timezone');
 const fs = require('fs');
-const promisify = require('util').promisify;
-const writeFileAsync = promisify(fs.writeFile);
 
-const get = promisify(request.get);
+const writeFileAsync = (fileName, data) => {
+  return new Promise((resolve, reject) => {
+    fs.writeFile(fileName, data, (err, res) => {
+      if (err) { return reject(err); }
+      return resolve(res);
+    });
+  });
+};
+
+const get = (url) => {
+  return new Promise((resolve, reject) => {
+    request.get(url, (err, res) => {
+      if (err) { return reject(err); }
+      return resolve(res);
+    });
+  });
+};
 
 const urls = {
   2016: 'http://www.sportsmediawatch.com/olympics-tv-schedule-rio-2016-nbc-nbcsn-usa-gymnastics-swimming-track-more/',
@@ -161,4 +175,4 @@ module.exports = function() {
   });
 };
 
-scrape(2018);
+// scrape(2018);
