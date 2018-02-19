@@ -62,7 +62,7 @@ const createTweet = (event) => {
   str += ` (${event.Live ? 'LIVE' : 'TAPE'})`;
   return str;
 };
-module.exports = () => {
+const run = module.exports = () => {
   return scrape().then((schedule) => {
     const events = getNextEvents(schedule);
     console.log(`Creating ${events.length} tweets`);
@@ -73,3 +73,5 @@ module.exports = () => {
     return Promise.all(actions);
   });
 };
+
+// run().catch(console.log);
