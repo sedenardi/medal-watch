@@ -172,7 +172,7 @@ module.exports = function() {
   return get(urls[year]).then((res) => {
     console.log('got page');
     const events = parseTable(res.body, year);
-    console.log('parsed page');
+    console.log(`parsed page, ${events.length} total events`);
     return Promise.resolve(events);
   });
 };
